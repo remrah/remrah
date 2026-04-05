@@ -1,4 +1,4 @@
-# Hi, I'm Ruff 👋
+# Hi, I'm Emrah 👋
 
 Software developer building productivity tools, AI utilities and automation systems.
 
