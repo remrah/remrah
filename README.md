@@ -1,4 +1,4 @@
-# Hi, I'm Emrah 👋
+# Hi, I'm R. Emrah Gokkaya 👋
 
 Software developer building productivity tools, AI utilities and automation systems.
 
