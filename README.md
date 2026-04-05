@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ruff 👋
 
-<!--
-**remrah/remrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer building productivity tools, AI utilities and automation systems.
 
-Here are some ideas to get you started:
+## Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- FocusFlow → productivity and focus management app
+- Thorulv → automation experiments
+- Ruff → personal utilities and experiments
+
+## Tech
+- Python
+- Javascript
+- C#
+- Go
+- Node.js
+
+## Interests
+
+- AI tools
+- developer productivity
+- automation
+- system design
