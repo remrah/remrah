@@ -3,7 +3,7 @@
 Software developer building productivity tools, AI utilities and automation systems.
 
 ## Current Projects
-- Thorulv → Ai assited logging system 
+- Thorulv → Real-time Log Intelligence Platform
 - FocusFlow → productivity and focus management app
 - Ruff → personal utilities and experiments
 
