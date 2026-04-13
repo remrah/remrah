@@ -3,7 +3,7 @@
 Software developer building productivity tools, AI utilities and automation systems.
 
 ## Current Projects
-- AI-powered financial news platform. Analyze news, track market trends, and make data-driven decisions.
+- FinansNews → AI-powered financial news platform. Analyze news, track market trends, and make data-driven decisions.
 - Thorulv → Real-time Log Intelligence Platform
 - FocusFlow → productivity and focus management app
 - Ruff → personal utilities and experiments
