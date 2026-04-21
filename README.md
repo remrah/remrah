@@ -1,6 +1,6 @@
 # Hi, I'm R. Emrah Gokkaya 👋
 
-Software developer building productivity tools, AI utilities and automation systems.
+Building productivity tools, AI utilities and automation systems.
 
 ## Current Projects
 -  → 
