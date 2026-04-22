@@ -1,4 +1,4 @@
-# Hi, I'm R. Emrah Gokkaya 👋
+# Hi, I'm R. Emrah Gokkaya 
 
 Building productivity tools, AI utilities and automation systems.
 
