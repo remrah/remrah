@@ -3,7 +3,7 @@
 Building productivity tools, AI utilities and automation systems.
 
 ## Current Projects
--  → 
+- DentPanel Web SaaS → Clinic Management Web Application 
 - Thorulv → Real-time Log Intelligence Platform
 - FocusFlow → productivity and focus management app
 - Ruff → personal utilities and experiments
