@@ -17,7 +17,6 @@ Building utilities and automation systems.
 
 ## Interests
 
-- AI tools
-- developer productivity
-- automation
-- system design
+- Developer productivity
+- Automation
+- System design
