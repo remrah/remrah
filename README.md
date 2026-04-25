@@ -1,6 +1,6 @@
 # Hi, I'm R. Emrah Gokkaya 
 
-Building productivity tools, AI utilities and automation systems.
+Building utilities and automation systems.
 
 ## Current Projects
 - DentPanel Web SaaS → Clinic Management Web Application 
