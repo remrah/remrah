@@ -4,8 +4,6 @@ Building utilities and automation systems.
 
 ## Current Projects
 - CBAM → SaaS platform that helps manufacturers generate EU CBAM-compliant carbon emission reports quickly and accurately.
-- DentPanel Web SaaS → Clinic Management Web Application 
-- Thorulv → Real-time Log Intelligence Platform
 ## Tech
 - Python
 - Javascript
