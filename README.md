@@ -3,6 +3,7 @@
 Building utilities and automation systems.
 
 ## Current Projects
+- Sta →  Streak Tracking App  
 - CBAM → SaaS platform that helps manufacturers generate EU CBAM-compliant carbon emission reports quickly and accurately.
 ## Tech
 - Python
