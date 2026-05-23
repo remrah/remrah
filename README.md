@@ -3,7 +3,7 @@
 Building utilities and automation systems.
 
 ## Current Projects
-- Fjorgyn → AI Content Planner for Windows. 
+- Fjorgyn → AI Social Media Content Planner for Windows. Flutter + Groq Api.
 - CBAM → SaaS platform that helps manufacturers generate EU CBAM-compliant carbon emission reports quickly and accurately.
 ## Tech
 - Python
