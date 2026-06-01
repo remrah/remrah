@@ -2,8 +2,6 @@
 
 There is a quiet but persistent fire within — built from pride, resilience, and the refusal to give up on oneself.
 
-It’s not just motivation; it’s a deep inner strength that keeps pushing forward even when things get heavy. A sense of identity that refuses to be diminished, and a mindset that turns struggle into momentum.
-
 This is about carrying your own flame, staying grounded in who you are, and continuing to build — no matter how many times life tries to slow you down.
 
 Building, learning, and exploring the future of technology.
