@@ -6,22 +6,22 @@ It’s not just motivation; it’s a deep inner strength that keeps pushing forw
 
 This is about carrying your own flame, staying grounded in who you are, and continuing to build — no matter how many times life tries to slow you down.
 
+Building, learning, and exploring the future of technology.
+
 ## Current Projects
 - *****- → AI-powered exam and test builder platform for educators.
 - Fjorgyn → AI Social Media Content Planner for Windows. Flutter + Groq Api.
 - CBAM → SaaS platform that helps manufacturers generate EU CBAM-compliant carbon emission reports quickly and accurately.
-Tech Stack
+Tech Stack: 
 Python · JavaScript / TypeScript · C# · Go · Node.js
 React · Next.js · REST APIs · SQL / NoSQL
 Cloud & Backend Systems · API Design
 
-⚙️ Focus Areas
+⚙️ Focus Areas: 
 System design & scalable backend architectures
 Automation & AI-assisted development
 API-first application development
 
-💡 Interests
-Building high-impact developer tools
-Distributed systems thinking
+💡 Interests:
 Clean architecture & maintainable codebases
 Performance optimization
