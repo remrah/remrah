@@ -1,9 +1,5 @@
 # Hi, I'm R. Emrah Gokkaya
 
-There is a quiet but persistent fire within — built from pride, resilience, and the refusal to give up on oneself.
-
-This is about carrying your own flame, staying grounded in who you are, and continuing to build — no matter how many times life tries to slow you down.
-
 I’m focused on building, learning, and exploring the future of technology.
 
 ---
