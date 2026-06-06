@@ -1,6 +1,6 @@
 # Hi, I'm R. Emrah Gokkaya
 
-I’m focused on building, learning, and exploring the future of technology.
+Building, learning, and exploring the future of technology.
 
 ---
 
