@@ -5,6 +5,7 @@ Building, learning, and exploring the future of technology.
 ---
 
 ## 🚀 Current Projects
+- **PixBrute** — Offline, deterministic image upscaler.
 - **CbamTrack** — SaaS platform that generates EU CBAM-compliant carbon emission reports for manufacturers www.cbamtrack.com
 - **CalibKeep** — Desktop calibration & equipment tracking software for small European manufacturers. https://ruffstack.dev/calibkeep
 - **Antik Vitrin** - Side project for my friend, Astro + Vercel. => https://antique-vitrin.vercel.app/
